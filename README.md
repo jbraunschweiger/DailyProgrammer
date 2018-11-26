@@ -14,3 +14,8 @@ More detailed description in SalesCommission readme
 A word funnel is a series of words formed by removing one letter at a time from a starting word, keeping the remaining letters in order.  
 Given a word, determine the length of the longest word funnel that it starts. You may optionally also return the funnel itself (or any funnel tied for the longest, in the case of a tie).   
 More detailed description in WordFunnel readme
+
+## Single-Symbol Squares
+
+Given a grid size N, find an NxN layout of X's and O's such that no axis-aligned square (2x2 or larger) within the grid has the same symbol at each of its four corners. That is, if four cells of the grid form a square, they must not be either all X's or all O's.\
+More detailed description in SingleSymbolSquares readme
