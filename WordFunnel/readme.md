@@ -30,5 +30,5 @@ ratio =>\
 rato =>\
 rat =>\
 at\
-preformationists is one of six words that begin a modified funnel of length 12. Find the other five words.\
+preformationists is one of six words that begin a modified funnel of length 12. Find the other five words.
 
