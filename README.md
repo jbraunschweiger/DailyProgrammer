@@ -25,3 +25,9 @@ More detailed description in SingleSymbolSquares readme
 One common way for software specifications such as HTML to specify colors is with a hexadecimal string.
 All three channel values must be an integer between 0 (minimum brightness) and 255 (maximum brightness). In all cases the hex values are two digits each, including a leading 0 if necessary.
 More detailed description in HexColor readme
+
+## Ducci Sequences ##
+
+A Ducci sequence is a sequence of n-tuples of integers, sometimes known as "the Diffy game", because it is based on sequences. Given an n-tuple of integers (a_1, a_2, ... a_n) the next n-tuple in the sequence is formed by taking the absolute differences of neighboring integers.\
+Some Ducci sequences descend to all zeroes or a repeating sequence. An example is (1,2,1,2,1,0) -> (1,1,1,1,1,1) -> (0,0,0,0,0,0).\
+More detailed description in DucciSequence readme
