@@ -5,7 +5,10 @@ See each folder's readme for a more detailed description of specific challenges
 
 ## Derangement ##
 Today we'll look at the subfactorial, defined as the derangement of a set of n objects, or a permutation of the elements of a set, such that no element appears in its original position. We denote it as !n.\
-Today's challenge is to write a subfactorial program. Given an input n, can your program calculate the correct value for n?
+Today's challenge is to write a subfactorial program. Given an input n, can your program calculate the correct value for n?\
+More detailed description in Derangement readme\
+[Original Challenge](https://www.reddit.com/r/dailyprogrammer/comments/9cvo0f/20180904_challenge_367_easy_subfactorials_another/)
+
 
 ## Sales Commission ##
 
