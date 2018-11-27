@@ -9,6 +9,12 @@ Today's challenge is to write a subfactorial program. Given an input n, can your
 More detailed description in Derangement readme\
 [Original Challenge](https://www.reddit.com/r/dailyprogrammer/comments/9cvo0f/20180904_challenge_367_easy_subfactorials_another/)
 
+## Knuth Up-Arrow Notation ##
+You can view exponentiation as repeated multiplication. But why stop there? Knuth's up-arrow notation takes this idea a step further. The notation is used to represent repeated operations.\
+In this notation a single ↑ operator corresponds to iterated multiplication.\
+More detailed description in KnuthUpArrow readme\
+[Original Challenge](https://www.reddit.com/r/dailyprogrammer/comments/8xbxi9/20180709_challenge_365_easy_uparrow_notation/)
+
 
 ## Sales Commission ##
 
